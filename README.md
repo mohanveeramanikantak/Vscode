@@ -10,7 +10,7 @@ VS Code is a great editor for writing and formatting README files in Markdown (`
 
 ---
 
-#### **2. Creating a GitHub README File**
+#### **2. Creating a GitHub README File** 
 - In your GitHub repository, create a `README.md` file.  
 - Write your content using Markdown syntax:
   ```markdown
